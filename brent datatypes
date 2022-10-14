@@ -1,0 +1,52 @@
+public class Indiandudes{
+    public static void main (String args[])
+    {
+       
+        
+        //All data types
+        String name1, name2;
+        char gender1, gender2 ;
+        int age1, age2;
+        float income1, income2;
+        double grade1, grade2;
+        byte byte1, byte2;
+        long long1, long2;
+        short short1, short2;
+        boolean boolean1, boolean2;
+        
+        //Codes
+        
+       name1 = "Armand Adrian B. Biadora";
+       name2 = "Brent Carl Isidro C. Bautista";
+       
+       gender1 = 'M';
+       gender2 = 'M';
+       
+       age1 = 19;
+       age2 = 19;
+       
+       income1 = 90000;
+       income2 = 200000;
+       
+       grade1 = 1.25;
+       grade2 = 1.5;
+       
+       byte1 = 25;
+       byte2 = 20;
+       
+       long1 = 123456789;
+       long2 = 987654321;
+       
+       short1 = 20000;
+       short2 = 15000;
+       
+       boolean1 = true;S
+       boolean2 = false;
+       
+      //Output
+      
+      
+      System.out.println( "\t\t\t\t\t\t\t\tArmand's Personal information:"+ "\n\n" + name1 + "\n" + gender1 + "\n" + age1 + "\n" + income1 + "\n" + grade1 + "\n" + byte1 + "\n" +long1 + "\n" + short1 + "\n" + boolean1 + "\n" + "\t\t\t\t\t\t\t\tBrent's Personal information:"+ "\n\n" +name2
+      + "\n" + gender2 + "\n" + age2 + "\n" + income2 + "\n" + grade2 + "\n" + byte2 + "\n" + long2 + "\n" + short2 + "\n" + boolean2);
+    }
+}
